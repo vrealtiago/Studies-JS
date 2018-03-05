@@ -1,0 +1,1 @@
+#Training js code in small projetc of online course
