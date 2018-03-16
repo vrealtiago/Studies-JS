@@ -11,11 +11,11 @@ class Negociacao{
     }
 
     get quantidade(){
-        return this._quantidade = this.quantidade;
+        return this._quantidade;
     }
 
     get valor(){
-        return this._valor = this.valor;
+        return this._valor;
     }
 
     get volume(){

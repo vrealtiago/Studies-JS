@@ -8,6 +8,6 @@ class ListaNegociacoes{
     }
 
     get negociacoes(){
-        return [].concat(this.negociacoes);
+        return [].concat(this._negociacoes);
     }
 }

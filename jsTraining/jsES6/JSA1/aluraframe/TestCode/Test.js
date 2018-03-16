@@ -133,6 +133,7 @@ exibeNoConsole([].concat(listaDeNomes1,listaDeNomes2));
 ================================================================
 */
 
+/*
 class ConversorXML {
 
     static converte(objeto) {
@@ -142,3 +143,41 @@ class ConversorXML {
 
 let conversor = new ConversorXML();
 conversor.converte({nome: 'Guaraci', idade: 40});
+*/
+
+/*
+================================================================
+*/
+
+/*
+numeros.reduce(function(total,num) {
+    return total * num;
+}, 1);
+
+numeros.reduce((total,num) => total * num, 1);
+*/
+
+/*
+================================================================
+*/
+
+
+/*let dobro = numeros.map(function(num) {
+    return num * 2;
+});
+let metade = numeros.map(function(num) {
+    return num/2;
+});
+let raiz = numeros.map(function(num) {
+    return Math.sqrt(num);
+});*/
+/*
+let dobro = numeros.map(num => num * 2);
+
+let metade = numeros.map(num => num / 2);
+
+let raiz = numeros.map(num => Math.sqrt(num));*/
+
+/*
+================================================================
+*/
